@@ -1,0 +1,27 @@
+caption {
+    background-color: rgb(49, 63, 104);
+    color: white;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+table{
+    border-collapse: collapse;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+
+}
+th{
+    background-color: rgb(115, 157, 180);
+    font-weight: lighter;
+    text-align: left;
+    padding: 5px;
+}
+tfoot {
+    border: 3px solid black;
+    font-weight: bold;
+}
+td{
+    padding: 5px;
+}
